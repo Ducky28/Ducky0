@@ -85,9 +85,12 @@ This project is licensed under the GPL-V3.0 License - see the LICENSE.md file fo
 ## Acknowledgments
 
 * [VoronDesign](https://github.com/VoronDesign)
+  * [Voron 0.2r1](https://github.com/VoronDesign/Voron-0)
 * [Coconut](https://github.com/CoconutDevelopment)
+  * [CocobustorZero](https://github.com/CoconutDevelopment/CocobustorZero)
 * [247 printing's 247 Zero Beta2](https://github.com/247printing/247zero)
-* 
+* [Stefan's (CNC Kitchen) "Fast 3D printing is bad for Strength! (and how to fix it!)" video](https://youtu.be/qBvTWFEd7rk?si=yeHNLQK2HN_pLwcw)
+* [Vez3D VzBoT](https://github.com/VzBoT3D/VzBoT-Vz330)
 
 
 

@@ -36,6 +36,21 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
     * 24V 350W PSU for main electronics
     * 48V 200W PSU for XY motors
     * Separately switch 48V supply from the rest of the supplies
+* Printing Capabilities
+  * Fully enclosed with standard tophat and door
+  * Fully contained part cooling
+  * Copper heatblock for up to 450C
+  * Heated bed up to 120C
+  * Max observed chamber temperature: 75C
+
+* Must be able to print these materials
+     * ABS/ASA
+     * PET
+     * PA6/PA12
+     * PLA
+     * PETG
+     * PC
+   
 ## Components and Resources
 * Frame Components
   * [Voron V0 Frame Brace by Jon](https://www.printables.com/model/450049-voron-v0-frame-brace)

@@ -88,6 +88,9 @@ This project is licensed under the GPL-V3.0 License - see the LICENSE.md file fo
 
 * [VoronDesign](https://github.com/VoronDesign)
   * [Voron 0.2r1](https://github.com/VoronDesign/Voron-0)
+* [Klipper3D Klipper](https://github.com/Klipper3d/klipper)
+  * [Klippain Shaketune by Frix-x](https://github.com/Frix-x/klippain-shaketune)
+  * [Klipper TMC Autotune by Andrew McGregor](https://github.com/andrewmcgr/klipper_tmc_autotune)
 * [Coconut](https://github.com/CoconutDevelopment)
   * [CocobustorZero](https://github.com/CoconutDevelopment/CocobustorZero)
 * [247 printing's 247 Zero Beta2](https://github.com/247printing/247zero)

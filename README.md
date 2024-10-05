@@ -1,7 +1,7 @@
 # Ducky0
 A Voron 0.2r1 CoreXY 3D Printer Modification
 
-![alt text](https://github.com/Ducky28/Ducky0/blob/main/images/IMG_9070.jpeg)
+![alt text](https://github.com/Ducky28/Ducky0/blob/main/images/Printer%20Front.jpeg)
 
 ## Wait! But Why?
 I often find myself in this situation: *sends prototype to 3D printer, 3D printer is done an hour later, realizes I'm on version 7 of the design* 

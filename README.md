@@ -1,5 +1,5 @@
 # Ducky0
-Voron 0.2r1 CoreXY 3D Printer Modification
+A Voron 0.2r1 CoreXY 3D Printer Modification
 ## Wait! But Why?
 I often find myself in this situation: *sends prototype to 3D printer, 3D printer is done an hour later, realizes I'm on version 7 of the design* 
 ## Design goals
@@ -67,6 +67,28 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
   * BTT Pi TFT70 touchscreen
   * [BTT Pi TFT70 screen enclosure by Fizzy's Tech](https://www.printables.com/model/581227-ft-btt-pi-tft70-screen-mount/files)
   * [Voron 0 Kirigami Bed by christophmuellerorg](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
+ 
+## Authors
+
+[@Ducky28](https://github.com/Ducky28)
+
+## Version History
+
+* 0.1
+    * Initial Release
+    * Still work in progress, things may not work as expected!
+ 
+## License
+
+This project is licensed under the GPL-V3.0 License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+* [VoronDesign](https://github.com/VoronDesign)
+* [Coconut](https://github.com/CoconutDevelopment)
+* [247 printing's 247 Zero Beta2](https://github.com/247printing/247zero)
+* 
+
 
 
 

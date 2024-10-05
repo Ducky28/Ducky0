@@ -118,6 +118,7 @@ This project is licensed under the GPL-V3.0 License - see the LICENSE.md file fo
 * [247 printing's 247 Zero Beta2](https://github.com/247printing/247zero)
 * [Stefan's (CNC Kitchen) "Fast 3D printing is bad for Strength! (and how to fix it!)" video](https://youtu.be/qBvTWFEd7rk?si=yeHNLQK2HN_pLwcw) (Inspiration)
 * [Vez3D VzBoT](https://github.com/VzBoT3D/VzBoT-Vz330) (Inspiration)
+* All the people that have took their precious time to look at what I made and provide feedback and resources to get the project to where it is now and all the things I have learned along the way! Thank you!
 
 
 

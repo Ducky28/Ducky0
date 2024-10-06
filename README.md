@@ -87,6 +87,7 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
   * [BTT Pi TFT70 screen enclosure by Fizzy's Tech](https://www.printables.com/model/581227-ft-btt-pi-tft70-screen-mount/files)
   * [Voron 0 Kirigami Bed by christophmuellerorg](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
   * [Rainbow on a Matchstick by Blamm](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Rainbow_on_a_matchstick)
+  * [Lift-Off Tophat Hinges by chirpy2605](https://github.com/chirpy2605/voron/tree/main/V0/Lift-Off_Tophat_Hinges)
 
 ## Short Video
 [![Video](https://img.youtube.com/vi/nS1hlO0ZEqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nS1hlO0ZEqE)

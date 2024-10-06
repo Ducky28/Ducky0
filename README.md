@@ -93,7 +93,7 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
 [![Video](https://img.youtube.com/vi/nS1hlO0ZEqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nS1hlO0ZEqE)
 
 ## Benchy!
-[![Video](https://img.youtube.com/vi/ilSxzzg8svY/maxresdefault.jpg)](https://www.youtube.com/watch?v=ilSxzzg8svY)
+[![Video](https://img.youtube.com/vi/4r7pd2CCRk0/maxresdefault.jpg)](https://www.youtube.com/watch?v=4r7pd2CCRk0)
 
 ## Authors
 

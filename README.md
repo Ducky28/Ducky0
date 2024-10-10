@@ -67,7 +67,7 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
 * XY Motion
   * Fysetc Voron 0 ultra light gantry
   * [Double shear AB motor mounts by Driftrotor](https://github.com/Driftrotor/Voron-V0.2r1-Double-Shear-AB-Motor-Mounts/tree/main)
-  * LDO-35sth52-2004(s35) XY motors
+  * LDO-35sth52-2004AH(s35) XY motors
   * 2 3010 fans for stepper cooling
   * 2 3010 blower fans for stepper cooling
   * 2 12032 blower fans for stepper cooling

@@ -102,6 +102,12 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
 
 ## Version History
 
+* 0.1.01
+     * Added Thermistors and thermal adhesive to BOM for embedding thermistors inside motors
+     * Added KAMP Smart Park and Adaptive Purge routines in PRINT_START
+     * Added Orcaslicer, Prusaslicer, and Cura print profiles for KAMP conditional gcodes
+     * Still work in progress, things may still not work as expected!
+
 * 0.1
     * Initial Release
     * Still work in progress, things may not work as expected!
@@ -118,6 +124,7 @@ This project is licensed under the GPL-V3.0 License - see the LICENSE.md file fo
   * [Klippain Shaketune by Frix-x](https://github.com/Frix-x/klippain-shaketune)
   * [Klipper TMC Autotune by Andrew McGregor](https://github.com/andrewmcgr/klipper_tmc_autotune)
   * [Klipperscreen by Jordan Ruthe](https://github.com/KlipperScreen/KlipperScreen)
+  * [KAMP by kyleisah](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 * [Coconut](https://github.com/CoconutDevelopment)
   * [CocobustorZero](https://github.com/CoconutDevelopment/CocobustorZero)
 * [247 printing's 247 Zero Beta2](https://github.com/247printing/247zero)

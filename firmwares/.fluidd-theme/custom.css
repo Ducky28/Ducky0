@@ -16,7 +16,7 @@ button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.btncol
     -webkit-backdrop-filter: blur(10px);
 }
 .theme--dark.v-data-table tbody tr.v-data-table__selected {
-    background: rgba(23 23 23 / 40%);
+    background: rgba(23 23 23 / 47%);
 }
 .v-card__title {
     word-break: break-word;
@@ -148,7 +148,7 @@ button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btn
 }
 .v-card.collapsable-card:not(.collapsed) .v-card__title.collapsable-card-title {
     box-shadow: none !important;
-    background: rgba(23 23 23 / 50%) !important;
+    background: rgba(23 23 23 / 57%) !important;
 }
 .theme--dark .v-card .v-card__title.collapsable-card-title{
     border: 0 !important;
@@ -159,7 +159,7 @@ button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btn
     background: transparent;
 }
 .theme--dark.v-card {
-    background-color: rgba(23 23 23 / 50%);
+    background-color: rgba(23 23 23 / 57%);
 
 }
 .theme--dark.v-data-table {
@@ -172,7 +172,7 @@ button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btn
     background-color: transparent !important;
 }
 .theme--dark.v-toolbar.v-sheet {
-    background-color: rgb(45 48 56 / 20%) !important;
+    background-color: rgb(45 48 56 / 27%) !important;
     -webkit-backdrop-filter: blur(40px);
     backdrop-filter: blur(40px);
 
@@ -188,13 +188,13 @@ button.px-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--small.btn
 }
 button.px-0.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default.btncolor {
     border-radius: 0.5em !important;
-    background-color: rgba(23 23 23 / 60%) !important;
+    background-color: rgba(23 23 23 / 67%) !important;
 }
 .theme--dark.v-btn-toggle:not(.v-btn-toggle--group) .v-btn.v-btn {
-    background-color: rgb(53 53 53 / 60%) !important;
+    background-color: rgb(53 53 53 / 67%) !important;
 }
 .v-btn:before {
-    background-color: rgb(255 255 255 / 90%);
+    background-color: rgb(255 255 255 / 77%);
 }
 .theme--dark.v-btn-toggle:not(.v-btn-toggle--group) {
     background: transparent;
@@ -206,13 +206,13 @@ button.px-0.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-siz
     box-shadow: none;
 }
 .theme--dark.v-navigation-drawer {
-    background-color: rgba(23 23 23 / 40%) !important;
+    background-color: rgba(23 23 23 / 47%) !important;
 }
 .v-data-table.rounded-0.v-data-table--dense.v-data-table--fixed-header.theme--dark {
     background-color: transparent !important;
 }
 .theme--dark.v-data-table>.v-data-table__wrapper>table>tbody>tr:hover:not(.v-data-table__expanded__content):not(.v-data-table__empty-wrapper) {
-    background: rgba(23 23 23 / 50%);
+    background: rgba(23 23 23 / 57%);
 }
 .v-list.v-sheet.theme--dark.v-list--dense {
     border-radius: 0;
@@ -221,10 +221,10 @@ button.px-0.flex-grow-1.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-siz
     border-radius: 1em;
     backdrop-filter: blur(40px);
     -webkit-backdrop-filter: blur(40px);
-    background-color: rgb(57 57 57 / 80%);
+    background-color: rgb(57 57 57 / 87%);
 }
 .v-list.grow.pt-0.v-sheet.theme--dark.v-list--dense {
-    background-color: rgba(23 23 23 / 30%) !important;
+    background-color: rgba(23 23 23 / 37%) !important;
     border-radius: 0 !important;
 }
 header.v-sheet.theme--dark.v-toolbar.v-toolbar--dense {
@@ -239,10 +239,10 @@ header.v-sheet.theme--dark.v-toolbar.v-toolbar--dense {
     -webkit-backdrop-filter: blur(40px);
 }
 .v-card__text.py-4 {
-    background-color: rgb(57 57 57 / 80%);
+    background-color: rgb(57 57 57 / 87%);
 }
 .v-card__actions.pt-4 {
-    background-color: rgb(57 57 57 / 80%);
+    background-color: rgb(57 57 57 / 87%);
     backdrop-filter: blur(40px);
     -webkit-backdrop-filter: blur(40px);
 }
@@ -254,10 +254,10 @@ header.v-sheet.theme--dark.v-toolbar.v-toolbar--dense {
     border-radius: 0.5em;
 }
 .v-card.collapsed>.card-heading {
-    background-color: rgba(23 23 23 / 50%) !important;
+    background-color: rgba(23 23 23 / 57%) !important;
 }
 .theme--dark.v-chip:not(.v-chip--active) {
-    background: rgba(23 23 23 / 30%);
+    background: rgba(23 23 23 / 37%);
     margin-bottom: 5px;
     margin-top: 5px;
 }
@@ -352,7 +352,7 @@ a.v-list-item--active.v-list-item.v-list-item--link.theme--dark.secondary--text 
     border-radius: 0.5em;
 }
 .preview-options, .preview-name {
-    background: rgb(0 0 0 / 30%) !important;
+    background: rgb(0 0 0 / 37%) !important;
 }
 .v-sheet.v-card:not(.v-sheet--outlined) {
     box-shadow: none!important;

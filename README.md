@@ -90,6 +90,7 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
   * [Voron 0 Kirigami Bed by christophmuellerorg](https://github.com/christophmuellerorg/voron_0_kirigami_bed)
   * [Rainbow on a Matchstick by Blamm](https://github.com/VoronDesign/Voron-Hardware/tree/master/Daylight/Rainbow_on_a_matchstick)
   * [Lift-Off Tophat Hinges by chirpy2605](https://github.com/chirpy2605/voron/tree/main/V0/Lift-Off_Tophat_Hinges)
+  * [Remixed MF Nano carbon filter by kejar31](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
 
 ## Short Video
 [![Video](https://img.youtube.com/vi/nS1hlO0ZEqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nS1hlO0ZEqE)
@@ -102,6 +103,13 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
 [@Ducky28](https://github.com/Ducky28)
 
 ## Version History
+
+* 0.1.19
+     * Added Klipper Expander board for more I/O
+     * [Added Remixed MF Nano carbon filter by kejar31](https://www.printables.com/model/500513-voron-v0-tiny-recirculating-carbon-filter-mfnano-r)
+     * Added 2 chamber thermistors to monitor chamber temp
+     * Separated fan controls for better control over different fans
+     * moved pin definitions around to more sensible hardware (no more turning fans on and off with a high power heater mosfet)
 
 * 0.1.01
      * Added Thermistors and thermal adhesive to BOM for embedding thermistors inside motors
@@ -121,6 +129,7 @@ This project is licensed under the GPL-V3.0 License - see the LICENSE.md file fo
 
 * [VoronDesign](https://github.com/VoronDesign)
   * [Voron 0.2r1](https://github.com/VoronDesign/Voron-0)
+  * [Klipper Expander by Tim Abraham](https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander/Documentation)
 * [Klipper3D Klipper](https://github.com/Klipper3d/klipper)
   * [Klippain Shaketune by Frix-x](https://github.com/Frix-x/klippain-shaketune)
   * [Klipper TMC Autotune by Andrew McGregor](https://github.com/andrewmcgr/klipper_tmc_autotune)

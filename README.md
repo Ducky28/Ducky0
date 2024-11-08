@@ -95,6 +95,9 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
 ## Short Video
 [![Video](https://img.youtube.com/vi/nS1hlO0ZEqE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nS1hlO0ZEqE)
 
+## Explainer Video
+[![Video](https://img.youtube.com/vi/TwCCUQ7yJMo/maxresdefault.jpg)](https://www.youtube.com/watch?v=TwCCUQ7yJMo)
+
 ## Benchy!
 [![Video](https://img.youtube.com/vi/4r7pd2CCRk0/maxresdefault.jpg)](https://www.youtube.com/watch?v=4r7pd2CCRk0)
 

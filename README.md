@@ -81,8 +81,10 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
   * Remixed Voron 0.2 printed bottom panel. [original model by Cthulhu](https://www.printables.com/model/467247-voron-02-printed-bottom-panel)
   * [Mellow Fly HV-TMC5160 Pro Driver case by Hundsbuah](https://www.thingiverse.com/thing:5792659)
   * Embedded glass bead thermistors inside AB motors to track motor winding temperature
+  * Makerbase MKS 3MOS fan mosfets
 * Misc
   * 6 Delta Electronics PFB0412EN-E fans
+  * Fysetc CNC bed frame
   * [4028 Air ducts by Coconut](https://github.com/CoconutDevelopment/CocobustorZero/tree/main/STLs/Coconut%20Air%20Ducts)
   * [Superwide Stance feet by Coconut](https://github.com/CoconutDevelopment/CocobustorZero/tree/main/STLs/Superwide%20Stance)
   * BTT Pi TFT70 touchscreen

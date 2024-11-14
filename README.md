@@ -63,7 +63,7 @@ I often find myself in this situation: *sends prototype to 3D printer, 3D printe
     * 0.4mm Bondtech Brass CHT nozzle
     * LDO-36STH20-1004AHG(8T) extruder motor
     * PT1000 thermistor
-    * 100W heater cartridge
+    * 120W heater cartridge
 * XY Motion
   * Fysetc Voron 0 ultra light gantry
   * [Double shear AB motor mounts by Driftrotor](https://github.com/Driftrotor/Voron-V0.2r1-Double-Shear-AB-Motor-Mounts/tree/main)
